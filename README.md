@@ -18,7 +18,7 @@ For information on the basic concepts of Partitional Analysis, we recommend the 
 Partitional Analysis Publications - https://pauxy.net/partitional-analysis-publications/
 
 # Download and Installation
-To install Oplin v1.3 on Windows, download the file Oplin and run. It is necessary to have MCR 8.1 installed.
+To install Oplin v1.3 on Windows, download the file Oplin and run. It is necessary to have MCR 8.1 installed. Detailed instructions on readme.txt.
 
 The Matlab Compiler Runtime (MCR) can be freely downloaded at https://www.mathworks.com/products/compiler/matlab-runtime.html
 # About
